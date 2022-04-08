@@ -8,7 +8,7 @@ buttons.forEach(function(button){
 
 
 
-function displayValue(e){
+function displayValue(e){ 
      
        display.innerHTML += e.target.textContent;
 }
